@@ -1,0 +1,1 @@
+p$<.each_cons(4).count{_4.to_i>_1.to_i}

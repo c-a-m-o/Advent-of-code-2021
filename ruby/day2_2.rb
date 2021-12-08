@@ -1,0 +1,1 @@
+x=y=z=0;$<.map{d,v=_1.split;k=v.to_i;d[4]?(x+=k;y+=k*z):z+=d<?e?k:-k};p x*y

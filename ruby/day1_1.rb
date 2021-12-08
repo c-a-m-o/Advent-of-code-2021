@@ -1,0 +1,1 @@
+p$<.each_cons(2).count{_2.to_i>_1.to_i}
