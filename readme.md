@@ -37,3 +37,4 @@ In the command line at the root of the project.
 |    9|✅✅|❌❌ |   ❌❌| ❌❌|        N/A|       N/A|
 |   10|✅✅|❌❌ |   ✅✅| ❌❌|        N/A|       N/A|
 |   11|✅✅|❌❌ |   ❌❌| ❌❌|        N/A|       N/A|
+|   12|✅✅|❌❌ |   ❌❌| ❌❌|        N/A|       N/A|
